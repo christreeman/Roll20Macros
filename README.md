@@ -6,7 +6,7 @@ Many of the tables were picked up from the public google drive sheet [here](http
 # Roll20 API tools I use
 | API Script | Description |
 | --- | --- | 
-| **GroupCheck** | This tool is great for running any type of 5e check for multiple toekns at once |
+| **GroupCheck** | This tool is great for running any type of 5e check for multiple tokens at once |
 | **TokenMod** | Necessary tool for modifying token properties i.e. Vision and Bar settings |
 | **TableExport** | Needed for importing/exporting the table recipes in ```/Tables``` |
 | **GroupInitiative** | Good for rolling initiative for every token at once. You can also roll for players, but they hate you when you do. |

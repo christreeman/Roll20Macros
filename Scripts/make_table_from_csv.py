@@ -1,3 +1,4 @@
+#this script is for taking some of the files in /Data and turning them into the import-table format. Also helped write the Macro for rolling from the names tables
 import csv
 from mailbox import linesep
 name = "spells"
