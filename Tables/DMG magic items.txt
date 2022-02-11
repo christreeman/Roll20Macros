@@ -1,0 +1,403 @@
+!import-table --MagicItemA --hide
+!import-table-item --MagicItemA --Potion of healing --50 --
+!import-table-item --MagicItemA --Spell scroll (cantrip) --10 --
+!import-table-item --MagicItemA --Potion of climbing --10 --
+!import-table-item --MagicItemA --Spell scroll (1st level) --20 --
+!import-table-item --MagicItemA --Spell scroll (2nd level) --4 --
+!import-table-item --MagicItemA --Potion of greater healing --3 --
+!import-table-item --MagicItemA --Bag of holding --1 --
+!import-table-item --MagicItemA --Driftglobe --1 --
+
+
+!import-table --MagicItemB --hide
+!import-table-item --MagicItemB --Potion of greater healing --15 --
+!import-table-item --MagicItemB --Potion of fire breath --7 --
+!import-table-item --MagicItemB -- Potion of resistance --7 --
+!import-table-item --MagicItemB --Ammunition , +1 --5 --
+!import-table-item --MagicItemB --Potion of animal friendship --5 --
+!import-table-item --MagicItemB --Potion of hill giant strength --5 --
+!import-table-item --MagicItemB --Potion of growth --5 --
+!import-table-item --MagicItemB --Potion of water breathing --5 --
+!import-table-item --MagicItemB --Spell scroll (2nd level) --5 --
+!import-table-item --MagicItemB --Spell scroll (3rd level) --5 --
+!import-table-item --MagicItemB --Bag of holding --3 --
+!import-table-item --MagicItemB --Keoghtom's ointment --3 --
+!import-table-item --MagicItemB --Oil of slipperiness --3 --
+!import-table-item --MagicItemB --Dust of disappearance --2 --
+!import-table-item --MagicItemB --Dust of dryness --2 --
+!import-table-item --MagicItemB --Dust of sneezing and choking --2 --
+!import-table-item --MagicItemB --Elemental gem --2 --
+!import-table-item --MagicItemB --Philter of love --2 --
+!import-table-item --MagicItemB --Alchemy jug --1 --
+!import-table-item --MagicItemB --Cap of water breathing --1 --
+!import-table-item --MagicItemB --Cloak of the manta ray --1 --
+!import-table-item --MagicItemB --Driftglobe --1 --
+!import-table-item --MagicItemB --Goggles of night --1 --
+!import-table-item --MagicItemB --Helm of comprehending languages --1 --
+!import-table-item --MagicItemB --Immovable rod --1 --
+!import-table-item --MagicItemB --Lantern of revealing --1 --
+!import-table-item --MagicItemB --Mariner's armor --1 --
+!import-table-item --MagicItemB --Mithral armor --1 --
+!import-table-item --MagicItemB --Potion of poison --1 --
+!import-table-item --MagicItemB --Ring of swimming --1 --
+!import-table-item --MagicItemB --Robe of useful items --1 --
+!import-table-item --MagicItemB --Rope of climbing --1 --
+!import-table-item --MagicItemB --Saddle of the cavalier --1 --
+!import-table-item --MagicItemB --Wand of magic detection --1 --
+!import-table-item --MagicItemB --Wand of secrets --1 --
+
+
+!import-table --MagicItemC --hide
+!import-table-item --MagicItemC --Potion of superior healing --15 --
+!import-table-item --MagicItemC --Spell scroll (4th level) --7 --
+!import-table-item --MagicItemC --Ammunition, +2 --5 --
+!import-table-item --MagicItemC --Potion of clairvoyance --5 --
+!import-table-item --MagicItemC --Potion of diminution --5 --
+!import-table-item --MagicItemC --Potion of gaseous form --5 --
+!import-table-item --MagicItemC --Potion of frost giant strength --5 --
+!import-table-item --MagicItemC --Potion of stone giant strength --5 --
+!import-table-item --MagicItemC --Potion of heroism --5 --
+!import-table-item --MagicItemC --Potion of invulnerability --5 --
+!import-table-item --MagicItemC --Potion of mind reading --5 --
+!import-table-item --MagicItemC --Spell scroll (5th level) --5 --
+!import-table-item --MagicItemC --Elixir of health --3 --
+!import-table-item --MagicItemC --Oil of etherealness --3 --
+!import-table-item --MagicItemC --Potion of fire giant strength --3 --
+!import-table-item --MagicItemC --Quaal's feather token --3 --
+!import-table-item --MagicItemC --Scroll of protection --3 --
+!import-table-item --MagicItemC --Bag of beans --2 --
+!import-table-item --MagicItemC --Bead of force --2 --
+!import-table-item --MagicItemC --Chime of opening --1 --
+!import-table-item --MagicItemC --Decanter of endless water --1 --
+!import-table-item --MagicItemC --Eyes of minute seeing --1 --
+!import-table-item --MagicItemC --Folding boat --1 --
+!import-table-item --MagicItemC --Heward's handy haversack --1 --
+!import-table-item --MagicItemC --Horseshoes of speed --1 --
+!import-table-item --MagicItemC --Necklace of fireballs --1 --
+!import-table-item --MagicItemC --Periapt of health --1 --
+!import-table-item --MagicItemC --Sending stones --1 --
+
+
+!import-table --MagicItemD --hide
+!import-table-item --MagicItemD --Potion of supreme healing --20 --
+!import-table-item --MagicItemD --Potion of invisibility --10 --
+!import-table-item --MagicItemD --Potion of speed --10 --
+!import-table-item --MagicItemD --Spell scroll (6th level) --10 --
+!import-table-item --MagicItemD --Spell scroll (7th level) --7 --
+!import-table-item --MagicItemD --Ammunition, +3 --5 --
+!import-table-item --MagicItemD --Oil of sharpness --5 --
+!import-table-item --MagicItemD --Potion of flying --5 --
+!import-table-item --MagicItemD --Potion of cloud giant strength --5 --
+!import-table-item --MagicItemD --Potion of longevity --5 --
+!import-table-item --MagicItemD --Potion of vitality --5 --
+!import-table-item --MagicItemD --Spell scroll (8th level) --5 --
+!import-table-item --MagicItemD --Horseshoes of a zephyr --3 --
+!import-table-item --MagicItemD --Nolzur's marvelous pigments --3 --
+!import-table-item --MagicItemD --Bag of devouring --1 --
+!import-table-item --MagicItemD --Portable hole --1 --
+
+
+!import-table --MagicItemE --hide
+!import-table-item --MagicItemE --Spell scroll (8th level) --30 --
+!import-table-item --MagicItemE --Potion of storm giant strength --25 --
+!import-table-item --MagicItemE --Potion of supreme healing --15 --
+!import-table-item --MagicItemE --Spell scroll (9th level) --15 --
+!import-table-item --MagicItemE --Universal solvent --8 --
+!import-table-item --MagicItemE --Arrow of slaying --5 --
+!import-table-item --MagicItemE --Sovereign glue --2 --
+
+
+!import-table --MagicItemF --hide
+!import-table-item --MagicItemF --Weapon, +1 --15 --
+!import-table-item --MagicItemF --Shield,+ 1 --3 --
+!import-table-item --MagicItemF --Sentinel shield --3 --
+!import-table-item --MagicItemF --Amulet of proof against detection and location --2 --
+!import-table-item --MagicItemF --Boots of elvenkind --2 --
+!import-table-item --MagicItemF --Boots of striding and springing --2 --
+!import-table-item --MagicItemF --Bracers of archery --2 --
+!import-table-item --MagicItemF --Brooch of shielding --2 --
+!import-table-item --MagicItemF --Broom of flying --2 --
+!import-table-item --MagicItemF --Cloak of elvenkind --2 --
+!import-table-item --MagicItemF --Cloak of protection --2 --
+!import-table-item --MagicItemF --Gauntlets of ogre power --2 --
+!import-table-item --MagicItemF --Hat of disguise --2 --
+!import-table-item --MagicItemF --Javelin of lightning --2 --
+!import-table-item --MagicItemF --Pearl of power --2 --
+!import-table-item --MagicItemF --Rod of the pact keeper, + 1 --2 --
+!import-table-item --MagicItemF --Slippers of spider climbing --2 --
+!import-table-item --MagicItemF --Staff of the adder --2 --
+!import-table-item --MagicItemF --Staff of the python --2 --
+!import-table-item --MagicItemF --Sword of vengeance --2 --
+!import-table-item --MagicItemF --Trident of fish command --2 --
+!import-table-item --MagicItemF --Wand of magic missiles --2 --
+!import-table-item --MagicItemF --Wand of the war mage, + 1 --2 --
+!import-table-item --MagicItemF --Wand of web --2 --
+!import-table-item --MagicItemF --Weapon of warning --2 --
+!import-table-item --MagicItemF --Adamantine armor (chain mail) --1 --
+!import-table-item --MagicItemF --Adamantine armor (chain shirt) --1 --
+!import-table-item --MagicItemF --Adamantine armor (scale mail) --1 --
+!import-table-item --MagicItemF --Bag of tricks (gray) --1 --
+!import-table-item --MagicItemF --Bag of tricks (rust) --1 --
+!import-table-item --MagicItemF --Bag of tricks (tan) --1 --
+!import-table-item --MagicItemF --Boots of the winterlands --1 --
+!import-table-item --MagicItemF --Circlet of blasting --1 --
+!import-table-item --MagicItemF --Deck of illusions --1 --
+!import-table-item --MagicItemF --Eversmoking bottle --1 --
+!import-table-item --MagicItemF --Eyes of charming --1 --
+!import-table-item --MagicItemF --Eyes of the eagle --1 --
+!import-table-item --MagicItemF --Figurine of wondrous power (silver raven) --1 --
+!import-table-item --MagicItemF --Gem of brightness --1 --
+!import-table-item --MagicItemF --Gloves of missile snaring --1 --
+!import-table-item --MagicItemF --Gloves of swimming and climbing --1 --
+!import-table-item --MagicItemF --Gloves of thievery --1 --
+!import-table-item --MagicItemF --Headband of intellect --1 --
+!import-table-item --MagicItemF --Helm of telepathy --1 --
+!import-table-item --MagicItemF --Instrument of the bards (Doss lute) --1 --
+!import-table-item --MagicItemF --Instrument of the bards (Fochlucan bandore) --1 --
+!import-table-item --MagicItemF --Instrument of the bards (Mac-Fuimidh cittern) --1 --
+!import-table-item --MagicItemF --Medallion of thoughts --1 --
+!import-table-item --MagicItemF --Necklace of adaptation --1 --
+!import-table-item --MagicItemF --Periapt of wound closure --1 --
+!import-table-item --MagicItemF --Pipes of haunting --1 --
+!import-table-item --MagicItemF --Pipes of the sewers --1 --
+!import-table-item --MagicItemF --Ring of jumping --1 --
+!import-table-item --MagicItemF --Ring of mind shielding --1 --
+!import-table-item --MagicItemF --Ring of warmth --1 --
+!import-table-item --MagicItemF --Ring of water walking --1 --
+!import-table-item --MagicItemF --Quiver of Ehlonna --1 --
+!import-table-item --MagicItemF --Stone of good luck --1 --
+!import-table-item --MagicItemF --Wind fan --1 --
+!import-table-item --MagicItemF --Winged boots --1 --
+
+
+!import-table --MagicItemG --hide
+!import-table-item --MagicItemG --Weapon, +2 --88 --
+!import-table-item --MagicItemG --Bronze griffon --1 --
+!import-table-item --MagicItemG --Ebony fly --1 --
+!import-table-item --MagicItemG --Golden lion --1 --
+!import-table-item --MagicItemG --Ivory goat --1 --
+!import-table-item --MagicItemG --Marble elephant --1 --
+!import-table-item --MagicItemG --Onyx dog --2 --
+!import-table-item --MagicItemG --Serpentine owl --1 --
+!import-table-item --MagicItemG --Adamantine armor (breastplate) --8 --
+!import-table-item --MagicItemG --Adamantine armor (splint) --8 --
+!import-table-item --MagicItemG --Amulet of health --8 --
+!import-table-item --MagicItemG --Armor of vulnerability --8 --
+!import-table-item --MagicItemG --Arrow-catching shield --8 --
+!import-table-item --MagicItemG --Belt of dwarvenkind --8 --
+!import-table-item --MagicItemG --Belt of hill giant strength --8 --
+!import-table-item --MagicItemG --Berserker axe --8 --
+!import-table-item --MagicItemG --Boots of levitation --8 --
+!import-table-item --MagicItemG --Boots of speed --8 --
+!import-table-item --MagicItemG --Bowl of commanding water elementals --8 --
+!import-table-item --MagicItemG --Bracers of defense --8 --
+!import-table-item --MagicItemG --Brazier of commanding fire elementals --8 --
+!import-table-item --MagicItemG --Cape of the mountebank --8 --
+!import-table-item --MagicItemG --Censer of controlling air elementals --8 --
+!import-table-item --MagicItemG --Armor, +1 chain mail --8 --
+!import-table-item --MagicItemG --Armor of resistance (chain mail) --8 --
+!import-table-item --MagicItemG --Armor,+ 1 chain shirt --8 --
+!import-table-item --MagicItemG --Armor of resistance (chain shirt) --8 --
+!import-table-item --MagicItemG --Cloak of displacement --8 --
+!import-table-item --MagicItemG --Cloak of the bat --8 --
+!import-table-item --MagicItemG --Cube of force --8 --
+!import-table-item --MagicItemG --Daern's instant fortress --8 --
+!import-table-item --MagicItemG --Dagger of venom --8 --
+!import-table-item --MagicItemG --Dimensional shackles --8 --
+!import-table-item --MagicItemG --Dragon slayer --8 --
+!import-table-item --MagicItemG --Elven chain --8 --
+!import-table-item --MagicItemG --Flame tongue --8 --
+!import-table-item --MagicItemG --Gem of seeing --8 --
+!import-table-item --MagicItemG --Giant slayer --8 --
+!import-table-item --MagicItemG --Glamoured studded leather --8 --
+!import-table-item --MagicItemG --Helm of teleportation --8 --
+!import-table-item --MagicItemG --Horn of blasting --8 --
+!import-table-item --MagicItemG --Horn of Valhalla (silver or brass) --8 --
+!import-table-item --MagicItemG --Instrument of the bards (Canaith mandolin) --8 --
+!import-table-item --MagicItemG --Instrument of the bards (Cli lyre) --8 --
+!import-table-item --MagicItemG --loun stone (awareness) --8 --
+!import-table-item --MagicItemG --loun stone (protection) --8 --
+!import-table-item --MagicItemG --loun stone (reserve) --8 --
+!import-table-item --MagicItemG --loun stone (sustenance) --8 --
+!import-table-item --MagicItemG --Iron bands of Bilarro --8 --
+!import-table-item --MagicItemG --Armor, + 1 leather --8 --
+!import-table-item --MagicItemG --Armor of resistance (leather) --8 --
+!import-table-item --MagicItemG --Mace of disruption --8 --
+!import-table-item --MagicItemG --Mace of smiting --8 --
+!import-table-item --MagicItemG --Mace of terror --8 --
+!import-table-item --MagicItemG --Mantle of spell resistance --8 --
+!import-table-item --MagicItemG --Necklace of prayer beads --8 --
+!import-table-item --MagicItemG --Periapt of proof against poison --8 --
+!import-table-item --MagicItemG --Ring of animal influence --8 --
+!import-table-item --MagicItemG --Ring of evasion --8 --
+!import-table-item --MagicItemG --Ring of feather falling --8 --
+!import-table-item --MagicItemG --Ring of free action --8 --
+!import-table-item --MagicItemG --Ring of protection --8 --
+!import-table-item --MagicItemG --Ring of resistance --8 --
+!import-table-item --MagicItemG --Ring of spell storing --8 --
+!import-table-item --MagicItemG --Ring of the ram --8 --
+!import-table-item --MagicItemG --Ring of X-ray vision --8 --
+!import-table-item --MagicItemG --Robe of eyes --8 --
+!import-table-item --MagicItemG --Rod of rulership --8 --
+!import-table-item --MagicItemG --Rod of the pact keeper, +2 --8 --
+!import-table-item --MagicItemG --Rope of entanglement --8 --
+!import-table-item --MagicItemG --Armor, +1 scale mail --8 --
+!import-table-item --MagicItemG --Armor of resistance (scale mail) --8 --
+!import-table-item --MagicItemG --Shield, +2 --8 --
+!import-table-item --MagicItemG --Shield of missile attraction --8 --
+!import-table-item --MagicItemG --Staff of charming --8 --
+!import-table-item --MagicItemG --Staff of healing --8 --
+!import-table-item --MagicItemG --Staff of swarming insects --8 --
+!import-table-item --MagicItemG --Staff of the woodlands --8 --
+!import-table-item --MagicItemG --Staff of withering --8 --
+!import-table-item --MagicItemG --Stone of controlling earth elementals --8 --
+!import-table-item --MagicItemG --Sun blade --8 --
+!import-table-item --MagicItemG --Sword of life stealing --8 --
+!import-table-item --MagicItemG --Sword of wounding --8 --
+!import-table-item --MagicItemG --Tentacle rod --8 --
+!import-table-item --MagicItemG --Vicious weapon --8 --
+!import-table-item --MagicItemG --Wand of binding --8 --
+!import-table-item --MagicItemG --Wand of enemy detection --8 --
+!import-table-item --MagicItemG --Wand of fear --8 --
+!import-table-item --MagicItemG --Wand of fireballs --8 --
+!import-table-item --MagicItemG --Wand of lightning bolts --8 --
+!import-table-item --MagicItemG --Wand of paralysis --8 --
+!import-table-item --MagicItemG --Wand of the war mage, +2 --8 --
+!import-table-item --MagicItemG --Wand of wonder --8 --
+!import-table-item --MagicItemG --Wings of flying --8 --
+
+MagicItem Table H
+
+!import-table --MagicItemH --hide
+!import-table-item --MagicItemH --Weapon, +3 --10 --
+!import-table-item --MagicItemH --Amulet of the planes --2 --
+!import-table-item --MagicItemH --Carpet of flying --2 --
+!import-table-item --MagicItemH --Crystal ball (very rare version) --2 --
+!import-table-item --MagicItemH --Ring of regeneration --2 --
+!import-table-item --MagicItemH --Ring of shooting stars --2 --
+!import-table-item --MagicItemH --Ring of telekinesis --2 --
+!import-table-item --MagicItemH --Robe of scintillating colors --2 --
+!import-table-item --MagicItemH --Robe of stars --2 --
+!import-table-item --MagicItemH --Rod of absorption --2 --
+!import-table-item --MagicItemH --Rod of alertness --2 --
+!import-table-item --MagicItemH --Rod of security --2 --
+!import-table-item --MagicItemH --Rod of the pact keeper, +3 --2 --
+!import-table-item --MagicItemH --Scimitar of speed --2 --
+!import-table-item --MagicItemH --Shield, +3 --2 --
+!import-table-item --MagicItemH --Staff of fire --2 --
+!import-table-item --MagicItemH --Staff of frost --2 --
+!import-table-item --MagicItemH --Staff of power --2 --
+!import-table-item --MagicItemH --Staff of striking --2 --
+!import-table-item --MagicItemH --Staff of striking --2 --
+!import-table-item --MagicItemH --Sword of sharpness --2 --
+!import-table-item --MagicItemH --Wand of polymorph --2 --
+!import-table-item --MagicItemH --Wand of the war mage, +3 --2 --
+!import-table-item --MagicItemH --Adamantine armor (half plate) --1 --
+!import-table-item --MagicItemH --Adamantine armor (plate) --1 --
+!import-table-item --MagicItemH --Animated shield --1 --
+!import-table-item --MagicItemH --Belt of fire giant strength --1 --
+!import-table-item --MagicItemH --Belt of frost (or stone) giant strength --1 --
+!import-table-item --MagicItemH --Armor, + 1 breastplate --1 --
+!import-table-item --MagicItemH --Armor of resistance (breastplate) --1 --
+!import-table-item --MagicItemH --Candle of invocation --1 --
+!import-table-item --MagicItemH --Armor, +2 chain mail --1 --
+!import-table-item --MagicItemH --Armor, +2 chain shirt --1 --
+!import-table-item --MagicItemH --Cloak of arachnida --1 --
+!import-table-item --MagicItemH --Dancing sword --1 --
+!import-table-item --MagicItemH --Demon armor --1 --
+!import-table-item --MagicItemH --Dragon scale mail --1 --
+!import-table-item --MagicItemH --Dwarven plate --1 --
+!import-table-item --MagicItemH --Dwarven thrower --1 --
+!import-table-item --MagicItemH --Efreeti bottle --1 --
+!import-table-item --MagicItemH --Figurine of wondrous power (obsidian steed) --1 --
+!import-table-item --MagicItemH --Frost brand --1 --
+!import-table-item --MagicItemH --Helm of brilliance --1 --
+!import-table-item --MagicItemH --Horn of Valhalla (bronze) --1 --
+!import-table-item --MagicItemH --Instrument of the bards (Anstruth harp) --1 --
+!import-table-item --MagicItemH --loun stone (absorption) --1 --
+!import-table-item --MagicItemH --loun stone (agility) --1 --
+!import-table-item --MagicItemH --loun stone (fortitude) --1 --
+!import-table-item --MagicItemH --loun stone (insight) --1 --
+!import-table-item --MagicItemH --loun stone (intellect) --1 --
+!import-table-item --MagicItemH --loun stone (leadership) --1 --
+!import-table-item --MagicItemH --loun stone (strength) --1 --
+!import-table-item --MagicItemH --Armor, +2 leather --1 --
+!import-table-item --MagicItemH --Manual of bodily health --1 --
+!import-table-item --MagicItemH --Manual of gainful exercise --1 --
+!import-table-item --MagicItemH --Manual of golems --1 --
+!import-table-item --MagicItemH --Manual of quickness of action --1 --
+!import-table-item --MagicItemH --Mirror of life trapping --1 --
+!import-table-item --MagicItemH --Nine lives stealer --1 --
+!import-table-item --MagicItemH --Oath bow --1 --
+!import-table-item --MagicItemH --Armor, +2 scale mail --1 --
+!import-table-item --MagicItemH --Spellguard shield --1 --
+!import-table-item --MagicItemH --Armor, + 1 splint --1 --
+!import-table-item --MagicItemH --Armor of resistance (splint) --1 --
+!import-table-item --MagicItemH --Armor, + 1 studded leather --1 --
+!import-table-item --MagicItemH --Armor of resistance (studded leather) --1 --
+!import-table-item --MagicItemH --Tome of clear thought --1 --
+!import-table-item --MagicItemH --Tome of leadership and influence --1 --
+!import-table-item --MagicItemH --Tome of understanding --1 --
+
+MagicItem Table I
+
+!import-table --MagicItemI --hide
+!import-table-item --MagicItemI --Defender --60 --
+!import-table-item --MagicItemI --Hammer of thunderbolts --60 --
+!import-table-item --MagicItemI --Luck blade --60 --
+!import-table-item --MagicItemI --Sword of answering --60 --
+!import-table-item --MagicItemI --Holy avenger --36 --
+!import-table-item --MagicItemI --Ring of djinni summoning --36 --
+!import-table-item --MagicItemI --Ring of invisibility --36 --
+!import-table-item --MagicItemI --Ring of spell turning --36 --
+!import-table-item --MagicItemI --Rod of lordly might --36 --
+!import-table-item --MagicItemI --Staff of the magi --36 --
+!import-table-item --MagicItemI --Vorpal sword --36 --
+!import-table-item --MagicItemI --Belt of cloud giant strength --24 --
+!import-table-item --MagicItemI --Armor, +2 breastplate --24 --
+!import-table-item --MagicItemI --Armor, +3 chain mail --24 --
+!import-table-item --MagicItemI --Armor, +3 chain shirt --24 --
+!import-table-item --MagicItemI --Cloak of invisibility --24 --
+!import-table-item --MagicItemI --Crystal ball (legendary version) --24 --
+!import-table-item --MagicItemI --Armor, + 1 half plate --24 --
+!import-table-item --MagicItemI --Iron flask --24 --
+!import-table-item --MagicItemI --Armor, +3 leather --24 --
+!import-table-item --MagicItemI --Armor, +1 plate --24 --
+!import-table-item --MagicItemI --Robe of the archmagi --24 --
+!import-table-item --MagicItemI --Rod of resurrection --24 --
+!import-table-item --MagicItemI --Armor, +1 scale mail --24 --
+!import-table-item --MagicItemI --Scarab of protection --24 --
+!import-table-item --MagicItemI --Armor, +2 splint --24 --
+!import-table-item --MagicItemI --Armor, +2 studded leather --24 --
+!import-table-item --MagicItemI --Well of many worlds --24 --
+!import-table-item --MagicItemI --Armor, +2 half plate --2 --
+!import-table-item --MagicItemI --Armor, +2 plate --2 --
+!import-table-item --MagicItemI --Armor, +3 studded leather --2 --
+!import-table-item --MagicItemI --Armor, +3 breastplate --2 --
+!import-table-item --MagicItemI --Armor, +3 splint --2 --
+!import-table-item --MagicItemI --Armor, +3 half plate --1 --
+!import-table-item --MagicItemI --Armor, +3 plate --1 --
+!import-table-item --MagicItemI --Apparatus of Kwalish --12 --
+!import-table-item --MagicItemI --Armor of invulnerability --12 --
+!import-table-item --MagicItemI --Belt of storm giant strength --12 --
+!import-table-item --MagicItemI --Cubic gate --12 --
+!import-table-item --MagicItemI --Deck of many things --12 --
+!import-table-item --MagicItemI --Efreeti chain --12 --
+!import-table-item --MagicItemI --Armor of resistance (half plate) --12 --
+!import-table-item --MagicItemI --Horn ofValhalla (iron) --12 --
+!import-table-item --MagicItemI --Instrument of the bards (OIIamh harp) --12 --
+!import-table-item --MagicItemI --loun stone (greater absorption) --12 --
+!import-table-item --MagicItemI --loun stone (mastery) --12 --
+!import-table-item --MagicItemI --loun stone (regeneration) --12 --
+!import-table-item --MagicItemI --Plate armor of etherealness --12 --
+!import-table-item --MagicItemI --Plate armor of resistance --12 --
+!import-table-item --MagicItemI --Ring of air elemental command --12 --
+!import-table-item --MagicItemI --Ring of earth elemental command --12 --
+!import-table-item --MagicItemI --Ring of fire elemental command --12 --
+!import-table-item --MagicItemI --Ring of three wishes --12 --
+!import-table-item --MagicItemI --Ring of water elemental command --12 --
+!import-table-item --MagicItemI --Sphere of annihilation --12 --
+!import-table-item --MagicItemI --Talisman of pure good --12 --
+!import-table-item --MagicItemI --Talisman of the sphere --12 --
+!import-table-item --MagicItemI --Talisman of ultimate evil --12 --
+!import-table-item --MagicItemI --Tome of the stilled tongue --12 --
