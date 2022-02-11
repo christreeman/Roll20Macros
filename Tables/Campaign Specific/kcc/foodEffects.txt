@@ -1,0 +1,26 @@
+ !import-table --FoodEffectsNormal --show
+!import-table-item --FoodEffectsNormal --Advantage on first attack of the day --5 --
+!import-table-item --FoodEffectsNormal --You receive <%%91%%><%%91%%>2d6+2<%%93%%><%%93%%> temp health --5 --
+!import-table-item --FoodEffectsNormal --Advantage on your first saving throw of the day --5 --
+!import-table-item --FoodEffectsNormal --The first time you force an enemy to roll a saving throw, they have disadvantage --1 --
+!import-table-item --FoodEffectsNormal --Your speed increases by 10 feet for the day --1 --
+!import-table-item --FoodEffectsNormal --You have advantage on Strength checks for the day --1 --
+!import-table-item --FoodEffectsNormal --You have advantage on Wisdom checks for the day --1 --
+!import-table-item --FoodEffectsNormal --You have advantage on Dexterity checks for the day --1 --
+!import-table-item --FoodEffectsNormal --You have advantage on Intelligence checks for the day --1 --
+!import-table-item --FoodEffectsNormal --You have advantage on Charisma checks for the day --1 --
+ !import-table --FoodEffectsBad --show
+!import-table-item --FoodEffectsBad --You gain 1 point of exhaustion --3 --
+!import-table-item --FoodEffectsBad --You are poisoned for the rest of the day --3 --
+!import-table-item --FoodEffectsBad --You are blinded for the next hour --1 --
+!import-table-item --FoodEffectsBad --You are deafened for the next hour --1 --
+!import-table-item --FoodEffectsBad --You fall unconscious for the next hour --1 --
+!import-table-item --FoodEffectsBad --You take <%%91%%><%%91%%>4d6<%%93%%><%%93%%> poison damage --1 --
+!import-table-item --FoodEffectsBad --You have disadvantage on your first attack of the day --5 --
+!import-table-item --FoodEffectsBad --You have disadvantage on your first saving throw of the day --5 --
+!import-table --FoodEffectsGood --show
+!import-table-item --FoodEffectsGood --You have advantage on all skill checks for the rest of the day --1 --
+!import-table-item --FoodEffectsGood --You have advantage on all attacks in your first encounter of the day --1 --
+!import-table-item --FoodEffectsGood --You have advantage on all saving throws in your first encounter of the day --1 --
+!import-table-item --FoodEffectsGood --You gain <%%91%%><%%91%%>4d8+6<%%93%%><%%93%%> temp health --1 --
+!import-table-item --FoodEffectsGood --Spellcasters get an extra spell slot for the maximum spell slot level --1 --

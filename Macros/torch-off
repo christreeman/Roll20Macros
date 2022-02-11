@@ -1,0 +1,4 @@
+!# this macro will make sure it emits no light.
+!# the players can use this as a token action to toggle their torches and stuff
+!token-mod --set bright_light_distance|0 low_light_distance|0
+!token-mod --off emits_bright emits_low

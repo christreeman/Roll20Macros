@@ -1,0 +1,3 @@
+#! recursively rolls the food effects from cooking monsters in chat. 
+#! can be token or regular action for Uruk in the kcc campaign
+!rt &{template:desc} {{desc= ?{How was the food?| Bad, [[1t[FoodEffectsBad]]]|Normal, [[1t[FoodEffectsNormal]]]|Good,[[1t[FoodEffectsGood]]]}}}

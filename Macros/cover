@@ -1,0 +1,9 @@
+!# asks about which level of cover, and then posts the corresponding rules in chat.
+!# I leave it handy in my macro bar, and give access to players if they want to check themselves
+&{template:desc} {{desc= ?{What kind of cover?| Half Cover, **Half Cover**
++2 bonus to AC and Dexterity saving throws against attacks and effects that originate on the opposite side of the cover.|
+Three-Quarters Cover, **Three-Quarters Cover**
++5 bonus to AC and Dexterity saving throws against attacks and effects that originate on the opposite side of the cover.|
+Total Cover, **Total Cover**
+Can't be targeted directly by an attack or spell.
+}}}

@@ -1,0 +1,12 @@
+!# Click a token, and then use this macro. It will heal the token's hp bar and post the amount in chat.
+!# I give access to my players and set it as a token action.
+!token-mod {{
+  --set
+    bar1_value|+[[?{Potion of| 
+Healing,  [[2d4+2]]| 
+Greater Healing,  [[4d4+4]]| 
+Superior Healing,  [[8d4+8]]| 
+Supreme Healing,  [[10d4+20]]}}]]
+  --report
+    all|"{name} receives {bar1_value:abschange} points of healing."
+}}

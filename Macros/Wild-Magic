@@ -1,0 +1,3 @@
+!# recursively rolls on the wild magic surge table and tells everyone in chat
+!# i use it in my macro bar and also gave access to Grimble in the kcc cuz of his feather
+!rt &{template:default} {{Wild magic surges!= [[1t[Wild Magic Surge]]]}}

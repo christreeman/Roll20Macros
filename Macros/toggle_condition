@@ -1,0 +1,23 @@
+!# this command will assign all selected tokens an icon you select form a drop down
+!# theres places to add more conditions and tokens and stuff. i don't use as  much as just a quick color when only a few are affected. If a big AOE happens I will use this then.
+!token-mod --set ?{Condition|Bless, statusmarkers|!chained-heart
+|Blinded, statusmarkers|!bleeding-eye
+|Charmed, statusmarkers|!broken-heart
+|Dead, statusmarkers|!dead
+|Deafened, statusmarkers|!screaming
+|Exhaustion, statusmarkers|!back-pain
+|Frightened, statusmarkers|!flying-flag
+|Grappled, statusmarkers|!grab
+|Haste, statusmarkers|!stopwatch
+|Incapacitated, statusmarkers|!interdiction
+|Invisible, statusmarkers|!ninja-mask
+|Mantle, statusmarkers|!chemical-bolt
+|Paralyzed, statusmarkers|!lightning-helix
+|Petrified, statusmarkers|!aura
+|Poisoned, statusmarkers|!drink-me
+|Prone, statusmarkers|!strong
+|Rage, statusmarkers|!overdrive
+|Restrained, statusmarkers|!fishing-net
+|Slow, statusmarkers|!snail
+|Stunned, statusmarkers|!broken-skull
+|Unconscious, statusmarkers|!bleeding-eye}

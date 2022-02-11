@@ -1,0 +1,3 @@
+!# recursively rolls once on every DMG magic item table. Can be used to quickly check loot. be aware that strenght goes up in table letter
+!# the output from this command is whispered to GM only, and is placed in my macro bar. Not visible to players.
+!rt /w gm &{template:default} {{name=Rolling Loot on All tables}} {{A=[[1t[MagicItemA]]]}} {{B=[[1t[MagicItemB]]]}} {{C=[[1t[MagicItemC]]]}} {{D=[[1t[MagicItemD]]]}} {{E=[[1t[MagicItemE]]]}} {{F=[[1t[MagicItemF]]]}} {{G=[[1t[MagicItemG]]]}} {{H=[[1t[MagicItemH]]]}} {{I=[[1t[MagicItemI]]]}}

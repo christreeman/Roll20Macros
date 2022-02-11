@@ -1,0 +1,3 @@
+!# leaves all the configured checks in chat for the GM to click. It is whispered. you then select the tokens you care about, and then click the check.
+!# -ro roll2 will automatically roll twice for fast dis/advantage checking
+!group-check -ro roll2

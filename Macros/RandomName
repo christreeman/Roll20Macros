@@ -1,0 +1,3 @@
+!# This command posts a table with a random name from every xanathars guide name tables that only the GM can see.
+!# I place on my bar so i can click if players ask for a random npc's name
+/w gm &{template:default} {{name=Random Name}}{{dragonborn female=[[1t[dragonborn_female]]]}}{{dragonborn male=[[1t[dragonborn_male]]]}}{{dwarf female=[[1t[dwarf_female]]]}}{{dwarf male=[[1t[dwarf_male]]]}}{{elf  emale=[[1t[elf_female]]]}}{{elf male=[[1t[elf_male]]]}}{{halfling female=[[1t[halfling_female]]]}}{{halfling male=[[1t[halfling_male]]]}}{{halforc female=[[1t[halforc_female]]]}}{{halforc male=[[1t[halforc_male]]]}}{{human female=[[1t[human_female]]]}}{{human male=[[1t[human_male]]]}}{{tiefling female=[[1t[tiefling_female]]]}}{{tiefling male=[[1t[tiefling_male]]]}}

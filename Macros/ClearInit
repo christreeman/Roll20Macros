@@ -1,0 +1,3 @@
+!# used to clear the turn tracker. 
+!# I use as a button on my bar.
+!group-init --clear

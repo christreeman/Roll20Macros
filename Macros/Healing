@@ -1,0 +1,3 @@
+!# automates adding HP to bar, and then reports to chat. Must select your token before use. 
+!# I use as token action and give access to players
+!token-mod --set bar1_value|+[[?{how much healing}]] --report all|"{name} receives {bar1_value:abschange} points of healing."

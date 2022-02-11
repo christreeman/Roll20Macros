@@ -1,0 +1,3 @@
+!# Select a token, and then use this macro. It will ask you how much damage they took and then subtract it from their HP bar and report it
+!# I set this as a token action anyone can use.
+!token-mod --set bar1_value|[[-?{how much damage}]] --report all|"{name} receives {bar1_value:abschange} points of damage."

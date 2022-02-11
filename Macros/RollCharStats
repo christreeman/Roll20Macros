@@ -1,0 +1,3 @@
+!# this posts a table in chat with a list of 6 stats rolled the way i like (roll 4d6 drop the lowest or [[4d6kh3]] which is 4d6 keep highest 3)
+!# dont need in bar or as token action. Should only be clicked ONCE by players. This will spam it. Use the first.
+&{template:default} {{name=Stats}} {{total=[[ [[4d6kh3]] + [[4d6kh3]] + [[4d6kh3]] + [[4d6kh3]] + [[4d6kh3]] +[[4d6kh3]] ]] }} {{1=$[[0]]}} {{2=$[[1]]}} {{3=$[[2]]}} {{4=$[[3]]}} {{5=$[[4]]}} {{6=$[[5]]}}

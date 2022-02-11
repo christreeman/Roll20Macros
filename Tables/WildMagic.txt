@@ -1,0 +1,45 @@
+!import-table --Wild Magic Surge --show
+!import-table-item --Wild Magic Surge --Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. --1 --
+!import-table-item --Wild Magic Surge --For the next minute, you can see any invisible creature to which you have line of sight. --1 --
+!import-table-item --Wild Magic Surge --You cast FIREBALL as a 3rd level spell, centered on yourself. --1 --
+!import-table-item --Wild Magic Surge --You cast MAGIC MISSLE as a 5th level spell --1 --
+!import-table-item --Wild Magic Surge --Your height changes <%%91%%><%%91%%>1d10<%%93%%><%%93%%> inches. You shrink if the number is Odd, grow if the number is even. --1 --
+!import-table-item --Wild Magic Surge --You cast CONFUSION centered on yourself. --1 --
+!import-table-item --Wild Magic Surge --For the next minute you gain 5hp at the start of each of your turns. --1 --
+!import-table-item --Wild Magic Surge --You grow a long beard made of feathers that remains on your face until you sneeze, at which point the beard explodes out from your face. --1 --
+!import-table-item --Wild Magic Surge --You cast GREASE centered on yourself. --1 --
+!import-table-item --Wild Magic Surge --Creatures have disadvantage on saving throws against the next spell you cast that requires a saving throw in the next minute. --1 --
+!import-table-item --Wild Magic Surge --An eye appears in the center of your forehead for the next minute. You gain advantage on Perception checks that involve sight. --1 --
+!import-table-item --Wild Magic Surge --For the next minute, all your spells with a casting time of 1 action now have a casting time of 1 bonus action. --1 --
+!import-table-item --Wild Magic Surge --You teleport up to 60ft to an unoccupied space of your choice that you can see. --1 --
+!import-table-item --Wild Magic Surge --Maximize the damage of the next damaging spell you cast within the next minute. --1 --
+!import-table-item --Wild Magic Surge --Your age changes <%%91%%><%%91%%>1d10<%%93%%><%%93%%> years. You age if the number is Odd, become younger if the number is even. --1 --
+!import-table-item --Wild Magic Surge --You regain <%%91%%><%%91%%>2d10<%%93%%><%%93%%> hit points. --1 --
+!import-table-item --Wild Magic Surge --You turn into a potted plant until the start of your next turn. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks and you revert to your form. --1 --
+!import-table-item --Wild Magic Surge --For the next minute, you can teleport up to 20ft as a bonus action on each of your turns. --1 --
+!import-table-item --Wild Magic Surge --You cast LEVITATE on yourself. --1 --
+!import-table-item --Wild Magic Surge --You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth. --1 --
+!import-table-item --Wild Magic Surge --A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to MAGIC MISSLE. --1 --
+!import-table-item --Wild Magic Surge --You are immune to being intoxicated by alcohol for the next <%%91%%><%%91%%>5d6<%%93%%><%%93%%> days. --1 --
+!import-table-item --Wild Magic Surge --Your hair falls out, but grows back within the next 24hrs. --1 --
+!import-table-item --Wild Magic Surge --For the next minute, any flammable object you touch that isn't being worn or carried by another creature bursts into flame. --1 --
+!import-table-item --Wild Magic Surge --You regain your lowest-level expended spell slot. --1 --
+!import-table-item --Wild Magic Surge --For the next minute, you must shout when you speak. --1 --
+!import-table-item --Wild Magic Surge --You cast FOG CLOUD centered on yourself. --1 --
+!import-table-item --Wild Magic Surge --Up to three creatures you choose within 30ft of you take <%%91%%><%%91%%>4d10<%%93%%><%%93%%> lightning damage. --1 --
+!import-table-item --Wild Magic Surge --You are frightened of the nearest creature until the end of your next turn. --1 --
+!import-table-item --Wild Magic Surge --Each creature within 30ft of you becomes invisible for the next minute. The invisibility ends on a creature when it attacks or casts a spell. --1 --
+!import-table-item --Wild Magic Surge --You gain resistance to all damage for the next minute. --1 --
+!import-table-item --Wild Magic Surge --A random creature within 60ft of you becomes poisoned for <%%91%%><%%91%%>1d4<%%93%%><%%93%%> hours. --1 --
+!import-table-item --Wild Magic Surge --You glow with bright light in a 30-foot radius for the next minute. Any creature that ends its turn within 5ft of you is blinded until the end of its next turn. --1 --
+!import-table-item --Wild Magic Surge --You cast POLYMORPH on yourself. If you fail the saving throw, you turn into a sheep for the spell's duration. --1 --
+!import-table-item --Wild Magic Surge --Illusory butterflies and flower petals flutter in the air within 10ft of you for the next minute. --1 --
+!import-table-item --Wild Magic Surge --You can take one additional action immediately. --1 --
+!import-table-item --Wild Magic Surge --You cast MIRROR IMAGE. --1 --
+!import-table-item --Wild Magic Surge --You cast FLY on a random creature within 60ft of you. --1 --
+!import-table-item --Wild Magic Surge --You become invisible for the next minute. During that time, other creatures cannot hear you. The invisibility ends if you attack or cast a spell. --1 --
+!import-table-item --Wild Magic Surge --If you die within the next minute, you immediately come back to life as if by a REINCARNATE spell. --1 --
+!import-table-item --Wild Magic Surge --Your size increases by 1 category for the next minute. --1 --
+!import-table-item --Wild Magic Surge --You and all creatures within 30ft of you gain vulnerability to piercing damage for the next minute. --1 --
+!import-table-item --Wild Magic Surge --You are surrounded by faint, ethereal music for the next minute. --1 --
+!import-table-item --Wild Magic Surge --You regain all expended Sorcery Points! --1 --

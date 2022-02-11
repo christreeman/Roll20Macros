@@ -1,0 +1,3 @@
+!# recursively rolls a spell from every level. I use for loot or magic shops
+!# output is whispered to GM and should only be used from macro bar by GM only. Not visible to players.
+!rt /w gm &{template:default} {{name=Rolling Spells on All tables}} {{Cantrip=[[1t[spells0]]]}} {{1st=[[1t[spells1]]]}} {{2nd=[[1t[spells2]]]}} {{3rd=[[1t[spells3]]]}} {{4th=[[1t[spells4]]]}} {{5th=[[1t[spells5]]]}} {{6th=[[1t[spells6]]]}} {{7th=[[1t[spells7]]]}} {{8th=[[1t[spells8]]]}} {{9th=[[1t[spells9]]]}}

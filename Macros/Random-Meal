@@ -1,0 +1,3 @@
+!# this macro rolls a random meal and then links the source webpages that the ingredients came from. It posts in all chat
+!# I put this as a button on my own bar. I also gave access to jason for Uruk
+&{template:default} {{name=Random Meal}} {{meal=serving [[1t[foodprep]]]  [[1t[meat]]] with [[1t[allveggie]]] salad and [[1t[grains]]]}} {{Meat=[LINK](https://en.wikipedia.org/wiki/List_of_captive-bred_meat_animals) }} {{Veggie=[LINK](https://en.wikipedia.org/wiki/List_of_vegetables)}} {{Grain=[LINK](http://wholegrainscouncil.org/whole-grains-101/whole-grains-z)}}

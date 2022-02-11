@@ -1,0 +1,328 @@
+!import-table --foodprep --hide
+!import-table-item --foodprep --Battered --5 --
+!import-table-item --foodprep --Boiled --10 --
+!import-table-item --foodprep --Breaded --1 --
+!import-table-item --foodprep --Buttered --10 --
+!import-table-item --foodprep --Dried --15 --
+!import-table-item --foodprep --Fried --10 --
+!import-table-item --foodprep --Garlic --1 --
+!import-table-item --foodprep --Grilled --20 --
+!import-table-item --foodprep --Herb --1 --
+!import-table-item --foodprep --Marinated --5 --
+!import-table-item --foodprep --Mashed --1 --
+!import-table-item --foodprep --Pickled --10 --
+!import-table-item --foodprep --Poached --5 --
+!import-table-item --foodprep --Raw --1 --
+!import-table-item --foodprep --Roasted --20 --
+!import-table-item --foodprep --Salted --5 --
+!import-table-item --foodprep --Sauteed --1 --
+!import-table-item --foodprep --Seasoned --1 --
+!import-table-item --foodprep --Smoked --5 --
+!import-table-item --foodprep --Spiced --1 --
+!import-table-item --foodprep --Steamed --1 --
+!import-table-item --foodprep --Stewed --25 --
+!import-table-item --foodprep --Toasted --5 --
+!import-table-item --foodprep --Cured --5 --
+!import-table-item --foodprep --Rubbed --1 --
+!import-table-item --foodprep --Crispy --1 --
+!import-table --meat --hide
+!import-table-item --meat --American bison --1 --
+!import-table-item --meat --Carabao --1 --
+!import-table-item --meat --Cattle --1 --
+!import-table-item --meat --Water buffalo --1 --
+!import-table-item --meat --Domesticated yak --1 --
+!import-table-item --meat --Alpaca --1 --
+!import-table-item --meat --Llama --1 --
+!import-table-item --meat --Camel --1 --
+!import-table-item --meat --Kurī (extinct) --1 --
+!import-table-item --meat -- Poi dog (extinct) --1 --
+!import-table-item --meat --Nureongi --1 --
+!import-table-item --meat --Xoloitzcuintle --1 --
+!import-table-item --meat --Domestic goat --1 --
+!import-table-item --meat -- Domestic cat --1 --
+!import-table-item --meat --Donkey --1 --
+!import-table-item --meat --Horse --1 --
+!import-table-item --meat --Rabbit --1 --
+!import-table-item --meat --Hare --1 --
+!import-table-item --meat --Kangaroo --1 --
+!import-table-item --meat --Domestic sheep --1 --
+!import-table-item --meat --Guinea pig --1 --
+!import-table-item --meat --Edible dormouse --1 --
+!import-table-item --meat --Coypu (nutria) --1 --
+!import-table-item --meat --Capybara --1 --
+!import-table-item --meat --Domestic pig --1 --
+!import-table-item --meat --Moose --1 --
+!import-table-item --meat --Reindeer --1 --
+!import-table-item --meat --Red deer --1 --
+!import-table-item --meat --Fallow deer --1 --
+!import-table-item --meat --Elk --1 --
+!import-table-item --meat --Chicken --1 --
+!import-table-item --meat -- Domestic duck --1 --
+!import-table-item --meat --Domestic goose --1 --
+!import-table-item --meat --Domestic turkey --1 --
+!import-table-item --meat --Japanese quail --1 --
+!import-table-item --meat --Domestic pigeon --1 --
+!import-table-item --meat --Guineafowl --1 --
+!import-table-item --meat --Ostrich --1 --
+!import-table-item --meat -- Emu --1 --
+!import-table-item --meat --Carp --1 --
+!import-table-item --meat --Catfish --1 --
+!import-table-item --meat --Salmon --1 --
+!import-table-item --meat --Tilapia --1 --
+!import-table-item --meat --Chapulines --1 --
+!import-table-item --meat --Maguey worm --1 --
+!import-table-item --meat --Mopane worm --1 --
+!import-table-item --meat --Silkworm --1 --
+!import-table-item --meat --Locust --1 --
+!import-table-item --meat --Grasshopper --1 --
+!import-table-item --meat --Crayfish --1 --
+!import-table-item --meat --Lobster --1 --
+!import-table-item --meat --Shrimp --1 --
+!import-table-item --meat --Prawns --1 --
+!import-table-item --meat --Oysters --1 --
+!import-table-item --meat --Mussels --1 --
+!import-table-item --meat --Land snails --1 --
+!import-table-item --meat --Abalone --1 --
+!import-table-item --meat --Alligator --1 --
+!import-table-item --meat --Crocodile --1 --
+!import-table-item --meat --Turtles --1 --
+!import-table-item --meat --Quilk --1 --
+!import-table --grains --hide
+!import-table-item --grains --Popped Amaranth --1 --
+!import-table-item --grains --Barley Risotto --1 --
+!import-table-item --grains --Buckwheat noodles --1 --
+!import-table-item --grains --Corn Bread --1 --
+!import-table-item --grains --Sourdough Bread --1 --
+!import-table-item --grains --Cooked Freekeh --1 --
+!import-table-item --grains --Khorasan Ciabatta --1 --
+!import-table-item --grains --Cooked Millet --1 --
+!import-table-item --grains --Oats --1 --
+!import-table-item --grains --Quinoa --1 --
+!import-table-item --grains --Rice --1 --
+!import-table-item --grains --Rye Bread --1 --
+!import-table-item --grains --Biscuits --1 --
+!import-table-item --grains --Teﬀ Porridge --1 --
+!import-table-item --grains --Wheat Bread --1 --
+!import-table-item --grains --Wild Rice --1 --
+!import-table --allveggie --hide
+!import-table-item --allveggie --Amaranth --1 --
+!import-table-item --allveggie --Arugula --1 --
+!import-table-item --allveggie --Beet (greens) --1 --
+!import-table-item --allveggie --Bok choy (白菜) --1 --
+!import-table-item --allveggie --Borage greens --1 --
+!import-table-item --allveggie --Broccoli (leaves / stalks) --1 --
+!import-table-item --allveggie --Brussels sprouts --1 --
+!import-table-item --allveggie --Cabbage --1 --
+!import-table-item --allveggie --Catsear --1 --
+!import-table-item --allveggie --Celery --1 --
+!import-table-item --allveggie --Celtuce --1 --
+!import-table-item --allveggie --Chaya --1 --
+!import-table-item --allveggie --Chickweed --1 --
+!import-table-item --allveggie --Chicory --1 --
+!import-table-item --allveggie --Chinese mallow --1 --
+!import-table-item --allveggie --Chrysanthemum (leaves) --1 --
+!import-table-item --allveggie --Collard greens --1 --
+!import-table-item --allveggie --Common purslane --1 --
+!import-table-item --allveggie --Corn salad --1 --
+!import-table-item --allveggie --Cress --1 --
+!import-table-item --allveggie --Dandelion --1 --
+!import-table-item --allveggie --Dill --1 --
+!import-table-item --allveggie --Endive --1 --
+!import-table-item --allveggie --Fat hen --1 --
+!import-table-item --allveggie --Fiddlehead --1 --
+!import-table-item --allveggie --Athyrium esculentum --1 --
+!import-table-item --allveggie --Fluted pumpkin --1 --
+!import-table-item --allveggie --Garden rocket --1 --
+!import-table-item --allveggie --Golden samphire --1 --
+!import-table-item --allveggie --Good King Henry --1 --
+!import-table-item --allveggie --Grape (leaves) --1 --
+!import-table-item --allveggie --Greater plantain --1 --
+!import-table-item --allveggie --Kai-lan (芥蘭 Gai lan) --1 --
+!import-table-item --allveggie --Kale --1 --
+!import-table-item --allveggie --Komatsuna --1 --
+!import-table-item --allveggie --Kuka --1 --
+!import-table-item --allveggie --Lagos bologi --1 --
+!import-table-item --allveggie --Lamb's lettuce --1 --
+!import-table-item --allveggie --Lamb's quarters --1 --
+!import-table-item --allveggie --Land cress --1 --
+!import-table-item --allveggie --Lettuce --1 --
+!import-table-item --allveggie --Lizard's tail --1 --
+!import-table-item --allveggie --Malabar spinach --1 --
+!import-table-item --allveggie --Melokhia --1 --
+!import-table-item --allveggie --Corchorus capsularis --1 --
+!import-table-item --allveggie --Miner's lettuce (Winter purslane) --1 --
+!import-table-item --allveggie --Mizuna greens --1 --
+!import-table-item --allveggie --Mustard --1 --
+!import-table-item --allveggie --Napa cabbage (召菜 Siu choi) --1 --
+!import-table-item --allveggie --New Zealand Spinach --1 --
+!import-table-item --allveggie --Orache --1 --
+!import-table-item --allveggie --Pak choy (白菜 Bok choy) --1 --
+!import-table-item --allveggie --Paracress --1 --
+!import-table-item --allveggie --Pea sprouts / leaves --1 --
+!import-table-item --allveggie --Poke --1 --
+!import-table-item --allveggie --Radicchio --1 --
+!import-table-item --allveggie --Rapini (broccoli rabe) --1 --
+!import-table-item --allveggie --Samphire --1 --
+!import-table-item --allveggie --Sculpit / Stridolo --1 --
+!import-table-item --allveggie --Sea beet --1 --
+!import-table-item --allveggie --Sea kale --1 --
+!import-table-item --allveggie --Sierra Leone bologi --1 --
+!import-table-item --allveggie --Soko --1 --
+!import-table-item --allveggie --Sorrel --1 --
+!import-table-item --allveggie --Sour cabbage --1 --
+!import-table-item --allveggie --Spinach --1 --
+!import-table-item --allveggie --Summer purslane --1 --
+!import-table-item --allveggie --Swiss chard --1 --
+!import-table-item --allveggie --Tatsoi --1 --
+!import-table-item --allveggie --Turnip greens --1 --
+!import-table-item --allveggie --Watercress --1 --
+!import-table-item --allveggie --Water spinach --1 --
+!import-table-item --allveggie --Wheatgrass --1 --
+!import-table-item --allveggie --Yarrow --1 --
+!import-table-item --allveggie --Yao choy (油菜 Yu choy) --1 --
+!import-table-item --allveggie --Avocado --1 --
+!import-table-item --allveggie --Bell pepper --1 --
+!import-table-item --allveggie --Bitter melon --1 --
+!import-table-item --allveggie --Bitter gourd --1 --
+!import-table-item --allveggie --Chayote --1 --
+!import-table-item --allveggie --Cucumber --1 --
+!import-table-item --allveggie --Ivy gourd --1 --
+!import-table-item --allveggie --Eggplant / Aubergine / Brinjal --1 --
+!import-table-item --allveggie --Luffa --1 --
+!import-table-item --allveggie --Olive fruit --1 --
+!import-table-item --allveggie --Pumpkin --1 --
+!import-table-item --allveggie --Squash --1 --
+!import-table-item --allveggie --Sweet pepper --1 --
+!import-table-item --allveggie --Tinda --1 --
+!import-table-item --allveggie --Tomatillo --1 --
+!import-table-item --allveggie --Tomato --1 --
+!import-table-item --allveggie --Vanilla --1 --
+!import-table-item --allveggie --West Indian gherkin --1 --
+!import-table-item --allveggie --Winter melon --1 --
+!import-table-item --allveggie --Zucchini / Courgette / Marrow --1 --
+!import-table-item --allveggie --Artichoke --1 --
+!import-table-item --allveggie --Broccoli --1 --
+!import-table-item --allveggie --Broccolini flowers --1 --
+!import-table-item --allveggie --Caper --1 --
+!import-table-item --allveggie --Cauliflower --1 --
+!import-table-item --allveggie --Daylily<%%91%%>2<%%93%%> --1 --
+!import-table-item --allveggie --Courgette flowers --1 --
+!import-table-item --allveggie --Squash blossoms --1 --
+!import-table-item --allveggie --American groundnut --1 --
+!import-table-item --allveggie --Azuki bean --1 --
+!import-table-item --allveggie --Black-eyed pea --1 --
+!import-table-item --allveggie --Chickpea --1 --
+!import-table-item --allveggie --Common bean --1 --
+!import-table-item --allveggie --Drumstick --1 --
+!import-table-item --allveggie --Dolichos bean --1 --
+!import-table-item --allveggie --Fava bean --1 --
+!import-table-item --allveggie --Garbanzo --1 --
+!import-table-item --allveggie --Green bean (French bean) --1 --
+!import-table-item --allveggie --Guar --1 --
+!import-table-item --allveggie --Horse gram --1 --
+!import-table-item --allveggie --Indian pea --1 --
+!import-table-item --allveggie --Lentil --1 --
+!import-table-item --allveggie --Lima bean --1 --
+!import-table-item --allveggie --Moth bean --1 --
+!import-table-item --allveggie --Mung bean --1 --
+!import-table-item --allveggie --Okra --1 --
+!import-table-item --allveggie --Pea --1 --
+!import-table-item --allveggie --Peanut --1 --
+!import-table-item --allveggie --Pigeon pea --1 --
+!import-table-item --allveggie --Ricebean --1 --
+!import-table-item --allveggie --Runner bean --1 --
+!import-table-item --allveggie --Snap pea (sugarsnap, mangetout) --1 --
+!import-table-item --allveggie --Snow pea (mangetout) --1 --
+!import-table-item --allveggie --Soybean --1 --
+!import-table-item --allveggie --Tarwi (Tarhui / Chocho) --1 --
+!import-table-item --allveggie --Tepary bean --1 --
+!import-table-item --allveggie --Urad bean --1 --
+!import-table-item --allveggie --Velvet bean --1 --
+!import-table-item --allveggie --Winged bean --1 --
+!import-table-item --allveggie --Yardlong bean --1 --
+!import-table-item --allveggie --Asparagus --1 --
+!import-table-item --allveggie --Cardoon --1 --
+!import-table-item --allveggie --Celeriac --1 --
+!import-table-item --allveggie --Celery --1 --
+!import-table-item --allveggie --Chives --1 --
+!import-table-item --allveggie --Elephant garlic --1 --
+!import-table-item --allveggie --Florence fennel --1 --
+!import-table-item --allveggie --Garlic --1 --
+!import-table-item --allveggie --Garlic chives --1 --
+!import-table-item --allveggie --Kohlrabi --1 --
+!import-table-item --allveggie --Kurrat --1 --
+!import-table-item --allveggie --Lemongrass --1 --
+!import-table-item --allveggie --Leek --1 --
+!import-table-item --allveggie --Lotus root --1 --
+!import-table-item --allveggie --Nopal --1 --
+!import-table-item --allveggie --Onion --1 --
+!import-table-item --allveggie --Pearl onion --1 --
+!import-table-item --allveggie --Potato onion --1 --
+!import-table-item --allveggie --Prussian asparagus --1 --
+!import-table-item --allveggie --Spring onion / Scallion --1 --
+!import-table-item --allveggie --Shallot --1 --
+!import-table-item --allveggie --Tree onion<%%91%%>3<%%93%%> --1 --
+!import-table-item --allveggie --Welsh onion --1 --
+!import-table-item --allveggie --Wild leek --1 --
+!import-table-item --allveggie --Ahipa --1 --
+!import-table-item --allveggie --Arracacha --1 --
+!import-table-item --allveggie --Bamboo shoot --1 --
+!import-table-item --allveggie --Phyllostachys edulis --1 --
+!import-table-item --allveggie --Beetroot --1 --
+!import-table-item --allveggie --Burdock --1 --
+!import-table-item --allveggie --Broadleaf arrowhead --1 --
+!import-table-item --allveggie --Camas --1 --
+!import-table-item --allveggie --Canna --1 --
+!import-table-item --allveggie --Carrot --1 --
+!import-table-item --allveggie --Cassava --1 --
+!import-table-item --allveggie --Chinese artichoke --1 --
+!import-table-item --allveggie --Daikon --1 --
+!import-table-item --allveggie --Earthnut pea --1 --
+!import-table-item --allveggie --Elephant foot yam --1 --
+!import-table-item --allveggie --Ensete --1 --
+!import-table-item --allveggie --Galangal --1 --
+!import-table-item --allveggie --Ginger --1 --
+!import-table-item --allveggie --Hamburg parsley --1 --
+!import-table-item --allveggie --Horseradish --1 --
+!import-table-item --allveggie --Jerusalem artichoke --1 --
+!import-table-item --allveggie --Jícama --1 --
+!import-table-item --allveggie --Mashua --1 --
+!import-table-item --allveggie --Parsnip --1 --
+!import-table-item --allveggie --Pignut --1 --
+!import-table-item --allveggie --Potato --1 --
+!import-table-item --allveggie --Prairie turnip --1 --
+!import-table-item --allveggie --Radish --1 --
+!import-table-item --allveggie --Rutabaga --1 --
+!import-table-item --allveggie --Salsify --1 --
+!import-table-item --allveggie --Scorzonera --1 --
+!import-table-item --allveggie --Skirret --1 --
+!import-table-item --allveggie --Swede --1 --
+!import-table-item --allveggie --Sweet potato (Kumara) --1 --
+!import-table-item --allveggie --Taro --1 --
+!import-table-item --allveggie --Ti --1 --
+!import-table-item --allveggie --Tigernut --1 --
+!import-table-item --allveggie --Turmeric --1 --
+!import-table-item --allveggie --Turnip --1 --
+!import-table-item --allveggie --Ulluco --1 --
+!import-table-item --allveggie --Wasabi --1 --
+!import-table-item --allveggie --Water caltrop --1 --
+!import-table-item --allveggie --Trapa bicornis --1 --
+!import-table-item --allveggie --Water chestnut --1 --
+!import-table-item --allveggie --Yacón --1 --
+!import-table-item --allveggie --Yam --1 --
+!import-table-item --allveggie --Aonori --1 --
+!import-table-item --allveggie --Enteromorpha --1 --
+!import-table-item --allveggie --Arame --1 --
+!import-table-item --allveggie --Carola --1 --
+!import-table-item --allveggie --Dabberlocks (Badderlocks) --1 --
+!import-table-item --allveggie --Dulse (Dillisk) --1 --
+!import-table-item --allveggie --Hijiki --1 --
+!import-table-item --allveggie --Kombu --1 --
+!import-table-item --allveggie --Laver / Gim --1 --
+!import-table-item --allveggie --Mozuku --1 --
+!import-table-item --allveggie --Nori --1 --
+!import-table-item --allveggie --Ogonori --1 --
+!import-table-item --allveggie --Sea grape --20 --
+!import-table-item --allveggie --Sea lettuce --1 --
+!import-table-item --allveggie --Wakame --1 --
+!import-table-item --allveggie --Wheat --1 --

@@ -1,0 +1,3 @@
+!# rolls recursively on the meta magic feather for the kcc campaign
+!# it is a bar macro for Darnoa only
+!rt &{template:desc} {{desc=[[1t[MetaMagicFeather]]] }}

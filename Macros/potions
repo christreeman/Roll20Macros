@@ -1,0 +1,7 @@
+!# This macro shows the player the different potion levels and rolls if they don't want to use the #AutoPotion
+!# I leave it in my macro bar for reference. It is visible to all players, but i don't hype it up cuz of AutoPotion
+&{template:desc} {{desc= ?{Potion of| 
+Healing, **Potion of Healing 2d4+2** [[2d4+2]]| 
+Greater Healing, **Potion of Greater Healing 4d4+4** [[4d4+4]]| 
+Superior Healing, **Potion of Superior Healing 8d4+8** [[8d4+8]]| 
+Supreme Healing, **Potion of Supreme Healing 10d4+20** [[10d4+20]]}}}

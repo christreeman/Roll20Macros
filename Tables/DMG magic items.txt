@@ -1,9 +1,9 @@
 !import-table --MagicItemA --hide
 !import-table-item --MagicItemA --Potion of healing --50 --
-!import-table-item --MagicItemA --Spell scroll (cantrip) --10 --
+!import-table-item --MagicItemA --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells0<%%93%%><%%93%%><%%93%%> --10 --
 !import-table-item --MagicItemA --Potion of climbing --10 --
-!import-table-item --MagicItemA --Spell scroll (1st level) --20 --
-!import-table-item --MagicItemA --Spell scroll (2nd level) --4 --
+!import-table-item --MagicItemA --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells1<%%93%%><%%93%%><%%93%%> --20 --
+!import-table-item --MagicItemA --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells2<%%93%%><%%93%%><%%93%%> --4 --
 !import-table-item --MagicItemA --Potion of greater healing --3 --
 !import-table-item --MagicItemA --Bag of holding --1 --
 !import-table-item --MagicItemA --Driftglobe --1 --
@@ -12,14 +12,14 @@
 !import-table --MagicItemB --hide
 !import-table-item --MagicItemB --Potion of greater healing --15 --
 !import-table-item --MagicItemB --Potion of fire breath --7 --
-!import-table-item --MagicItemB -- Potion of resistance --7 --
+!import-table-item --MagicItemB --Potion of resistance --7 --
 !import-table-item --MagicItemB --Ammunition , +1 --5 --
 !import-table-item --MagicItemB --Potion of animal friendship --5 --
 !import-table-item --MagicItemB --Potion of hill giant strength --5 --
 !import-table-item --MagicItemB --Potion of growth --5 --
 !import-table-item --MagicItemB --Potion of water breathing --5 --
-!import-table-item --MagicItemB --Spell scroll (2nd level) --5 --
-!import-table-item --MagicItemB --Spell scroll (3rd level) --5 --
+!import-table-item --MagicItemB --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells2<%%93%%><%%93%%><%%93%%> --5 --
+!import-table-item --MagicItemB --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells3<%%93%%><%%93%%><%%93%%> --5 --
 !import-table-item --MagicItemB --Bag of holding --3 --
 !import-table-item --MagicItemB --Keoghtom's ointment --3 --
 !import-table-item --MagicItemB --Oil of slipperiness --3 --
@@ -49,7 +49,7 @@
 
 !import-table --MagicItemC --hide
 !import-table-item --MagicItemC --Potion of superior healing --15 --
-!import-table-item --MagicItemC --Spell scroll (4th level) --7 --
+!import-table-item --MagicItemC --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells4<%%93%%><%%93%%><%%93%%> --7 --
 !import-table-item --MagicItemC --Ammunition, +2 --5 --
 !import-table-item --MagicItemC --Potion of clairvoyance --5 --
 !import-table-item --MagicItemC --Potion of diminution --5 --
@@ -59,7 +59,7 @@
 !import-table-item --MagicItemC --Potion of heroism --5 --
 !import-table-item --MagicItemC --Potion of invulnerability --5 --
 !import-table-item --MagicItemC --Potion of mind reading --5 --
-!import-table-item --MagicItemC --Spell scroll (5th level) --5 --
+!import-table-item --MagicItemC --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells5<%%93%%><%%93%%><%%93%%> --5 --
 !import-table-item --MagicItemC --Elixir of health --3 --
 !import-table-item --MagicItemC --Oil of etherealness --3 --
 !import-table-item --MagicItemC --Potion of fire giant strength --3 --
@@ -82,15 +82,15 @@
 !import-table-item --MagicItemD --Potion of supreme healing --20 --
 !import-table-item --MagicItemD --Potion of invisibility --10 --
 !import-table-item --MagicItemD --Potion of speed --10 --
-!import-table-item --MagicItemD --Spell scroll (6th level) --10 --
-!import-table-item --MagicItemD --Spell scroll (7th level) --7 --
+!import-table-item --MagicItemD --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells6<%%93%%><%%93%%><%%93%%> --10 --
+!import-table-item --MagicItemD --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells7<%%93%%><%%93%%><%%93%%> --7 --
 !import-table-item --MagicItemD --Ammunition, +3 --5 --
 !import-table-item --MagicItemD --Oil of sharpness --5 --
 !import-table-item --MagicItemD --Potion of flying --5 --
 !import-table-item --MagicItemD --Potion of cloud giant strength --5 --
 !import-table-item --MagicItemD --Potion of longevity --5 --
 !import-table-item --MagicItemD --Potion of vitality --5 --
-!import-table-item --MagicItemD --Spell scroll (8th level) --5 --
+!import-table-item --MagicItemD --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells8<%%93%%><%%93%%><%%93%%> --5 --
 !import-table-item --MagicItemD --Horseshoes of a zephyr --3 --
 !import-table-item --MagicItemD --Nolzur's marvelous pigments --3 --
 !import-table-item --MagicItemD --Bag of devouring --1 --
@@ -98,10 +98,10 @@
 
 
 !import-table --MagicItemE --hide
-!import-table-item --MagicItemE --Spell scroll (8th level) --30 --
+!import-table-item --MagicItemE --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells8<%%93%%><%%93%%><%%93%%> --30 --
 !import-table-item --MagicItemE --Potion of storm giant strength --25 --
 !import-table-item --MagicItemE --Potion of supreme healing --15 --
-!import-table-item --MagicItemE --Spell scroll (9th level) --15 --
+!import-table-item --MagicItemE --Scroll of <%%91%%><%%91%%>1t<%%91%%>spells9<%%93%%><%%93%%><%%93%%> --15 --
 !import-table-item --MagicItemE --Universal solvent --8 --
 !import-table-item --MagicItemE --Arrow of slaying --5 --
 !import-table-item --MagicItemE --Sovereign glue --2 --

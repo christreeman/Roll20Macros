@@ -1,0 +1,4 @@
+!# this macro will make sure it emits DND5e torch light (40 dim 20 bright)
+!# the players can use this as a token action to toggle their torches and stuff
+!token-mod --on emits_bright emits_low
+!token-mod --set bright_light_distance|20 low_light_distance|40

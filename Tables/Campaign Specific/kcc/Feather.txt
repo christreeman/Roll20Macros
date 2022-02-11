@@ -1,0 +1,5 @@
+ !import-table --MetaMagicFeather --show
+!import-table-item --MetaMagicFeather --fire - you cause a target you see (object or creature) to ignite into flames dealing <%%91%%><%%91%%>3d10<%%93%%><%%93%%> fire damage at the start of their next turn --1 --
+!import-table-item --MetaMagicFeather --air - You can fly as if under the effects of the spell fly until the end of your next turn --1 --
+!import-table-item --MetaMagicFeather --rebirth - you regain <%%91%%><%%91%%>3d4<%%93%%><%%93%%> hp --1 --
+!import-table-item --MetaMagicFeather --fury - you must make a dc15 charisma save or you become enraged. If you succeed, you can roll again and take <%%91%%><%%91%%>1t<%%91%%>MetaMagicFeather<%%93%%><%%93%%><%%93%%> --1 --

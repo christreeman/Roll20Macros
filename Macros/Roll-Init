@@ -1,0 +1,3 @@
+!# Select however many tokens you want, and use this macro. All the selected tokens will roll init and then be added to turn tracker. use #ClearInit to clear the turn tracker.
+!# I give access to all players and as an action on my bar. Players should only use it as token action tho so theres no more "I rolled but didn't click my token" shit
+!group-init
