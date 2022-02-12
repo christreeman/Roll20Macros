@@ -1,0 +1,2 @@
+!# Rolls  recursively on the lucky feather's condition table
+!rt &{template:desc} {{desc=[[1t[FeatherConditions]]]}}

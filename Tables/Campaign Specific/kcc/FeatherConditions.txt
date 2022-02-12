@@ -1,0 +1,30 @@
+!import-table --FeatherConditions --hide
+!import-table-item --FeatherConditions --Blinded --1 --
+!import-table-item --FeatherConditions --Deafened --1 --
+!import-table-item --FeatherConditions --Exhaustion --1 --
+!import-table-item --FeatherConditions --Paralyzed --1 --
+!import-table-item --FeatherConditions --Petrified --1 --
+!import-table-item --FeatherConditions --Poisoned --1 --
+!import-table-item --FeatherConditions --Prone --1 --
+!import-table-item --FeatherConditions --Stunned --1 --
+!import-table-item --FeatherConditions --Unconscious --1 --
+!import-table-item --FeatherConditions --Levitated --1 --
+!import-table-item --FeatherConditions --Baned --1 --
+!import-table-item --FeatherConditions --Slowed --1 --
+!import-table-item --FeatherConditions --Polymorphed (sheep) --1 --
+!import-table-item --FeatherConditions --Hasted --1 --
+!import-table-item --FeatherConditions --Blessed --1 --
+!import-table-item --FeatherConditions --Enlarged --1 --
+!import-table-item --FeatherConditions --Reduced --1 --
+!import-table-item --FeatherConditions --+2 AC --1 --
+!import-table-item --FeatherConditions --+<%%91%%><%%91%%>1d4+4<%%91%%><%%91%%> temp health --1 --
+!import-table-item --FeatherConditions --Sanctuary --1 --
+!import-table-item --FeatherConditions --+10ft speed --1 --
+!import-table-item --FeatherConditions --Invisible --1 --
+!import-table-item --FeatherConditions --Blurred --1 --
+!import-table-item --FeatherConditions --Blinked --1 --
+
+
+
+
+
