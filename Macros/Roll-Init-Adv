@@ -1,0 +1,2 @@
+!# rolls 5e initiative with advantage for when that comes up (warning weapons,etc)
+/r 2d20kh1+ @{selected|initiative_bonus} &{tracker}
